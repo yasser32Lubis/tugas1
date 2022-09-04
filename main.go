@@ -1,8 +1,7 @@
 package main
 
-import "dmt"
+import "fmt"
 
 func main(){
-	dmt.PrintIn("Hello World")
-	dmt.PrintIn("A")
+	fmt.PrintIn("Hello World")
 }
